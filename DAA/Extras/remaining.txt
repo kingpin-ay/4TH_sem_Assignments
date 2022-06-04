@@ -1,6 +1,6 @@
 1.Randomized quickSort
 2.Activity selection
 3.Job sequence
-4.prims
+4.prims  ****
 5.kruskal
 6.n queen
